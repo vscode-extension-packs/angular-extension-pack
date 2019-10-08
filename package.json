@@ -1,0 +1,38 @@
+{
+  "name": "angular-extension-pack",
+  "displayName": "Angular Extension Pack",
+  "description": "This is an extension pack for Visual Studio Code with some Angular extensions that are helpful.",
+  "version": "1.0.0",
+  "publisher": "magnobiet",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "vismalietuva.vscode-angular-support"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#42a5f5",
+    "theme": "light"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extension-packs/angular-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extension-packs/angular-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extension-packs/angular-extension-pack#readme"
+}
