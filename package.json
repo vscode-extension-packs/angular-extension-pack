@@ -14,7 +14,8 @@
     "ms-vscode.vscode-typescript-tslint-plugin",
     "angular.ng-template",
     "cyrilletuzi.angular-schematics",
-    "vismalietuva.vscode-angular-support"
+    "vismalietuva.vscode-angular-support",
+    "Mikael.Angular-BeastCode"
   ],
   "icon": "icon.png",
   "galleryBanner": {

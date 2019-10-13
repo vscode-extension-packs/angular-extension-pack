@@ -13,6 +13,7 @@ This is an extension pack for Visual Studio Code with some Angular extensions th
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 - [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
 - [Angular Support](https://marketplace.visualstudio.com/items?itemName=vismalietuva.vscode-angular-support)
+- [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 
 ## Installation
 
