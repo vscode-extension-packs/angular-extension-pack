@@ -2,7 +2,7 @@
   "name": "angular-extension-pack",
   "displayName": "Angular Extension Pack",
   "description": "This is an extension pack for Visual Studio Code with some Angular extensions that are helpful.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "magnobiet",
   "engines": {
     "vscode": "^1.38.0"
@@ -11,11 +11,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "dbaeumer.vscode-eslint",
     "angular.ng-template",
     "cyrilletuzi.angular-schematics",
-    "vismalietuva.vscode-angular-support",
-    "Mikael.Angular-BeastCode"
+    "vismalietuva.vscode-angular-support"
   ],
   "icon": "icon.png",
   "galleryBanner": {

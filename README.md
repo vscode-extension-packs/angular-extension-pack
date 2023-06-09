@@ -1,7 +1,7 @@
 # Visual Studio Code Angular Extension Pack
 
 [![Angular%20Extension%20Pack](https://img.shields.io/vscode-marketplace/v/magnobiet.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.angular-extension-pack)
-[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/)
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://license.magnobiet.com/mit/2019)
 [![Downloads](https://img.shields.io/vscode-marketplace/d/magnobiet.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.angular-extension-pack)
 [![Rating](https://img.shields.io/vscode-marketplace/r/magnobiet.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.angular-extension-pack)
 
@@ -9,11 +9,10 @@ This is an extension pack for Visual Studio Code with some Angular extensions th
 
 ## Extensions included
 
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 - [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
 - [Angular Support](https://marketplace.visualstudio.com/items?itemName=vismalietuva.vscode-angular-support)
-- [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## Installation
 
@@ -35,4 +34,4 @@ code --install-extension magnobiet.angular-extension-pack
 
 ## License
 
-This package is licensed under the [MIT license](https://magno.mit-license.org/2019). Copyright © Magno Biét
+This package is licensed under the [MIT license](https://license.magnobiet.com/mit/2019). Copyright © Magno Biét
