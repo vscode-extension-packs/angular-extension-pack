@@ -14,6 +14,7 @@ This is an extension pack for Visual Studio Code with some Angular extensions th
 - [Angular Support](https://marketplace.visualstudio.com/items?itemName=vismalietuva.vscode-angular-support)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- [arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr)
 
 ## Installation
 
